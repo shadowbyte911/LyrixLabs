@@ -1,0 +1,10 @@
+{
+  "name": "YOLOv8n",
+  "date": "2024-06-01",
+  "map": "0.72",
+  "format": "Torch",
+  "description": "YOLOv8 nano model for object detection.",
+  "filename": "yolov8n.pt",
+  "size_mb": 6.2,
+  "download_url": "https://huggingface.co/ultralytics/yolov8/resolve/main/yolov8n.pt"
+}
