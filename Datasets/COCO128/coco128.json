@@ -1,0 +1,8 @@
+{
+    "name": "COCO128",
+    "description": "A small subset of COCO for object detection. 128 images, YOLO format, 80 classes.",
+    "size_mb": 6,
+    "folder": "COCO128",
+    "filename": "coco128.zip",
+    "download_url": "https://github.com/ultralytics/yolov5/releases/download/v1.0/coco128.zip"
+}
