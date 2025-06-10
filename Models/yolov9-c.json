@@ -1,0 +1,10 @@
+{
+  "name": "YOLOv9-c",
+  "date": "2024-06-10",
+  "map": "0.75",
+  "format": "Torch",
+  "description": "YOLOv9-c model for object detection.",
+  "filename": "yolov9-c.pt",
+  "size_mb": 103,
+  "download_url": "https://huggingface.co/merve/yolov9/resolve/main/yolov9-c.pt"
+}
